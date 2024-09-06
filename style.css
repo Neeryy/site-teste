@@ -65,6 +65,7 @@ header > h1 {
 
 header > nav {
     text-align: left;
+    margin: auto;
 }
 
 nav > a {
