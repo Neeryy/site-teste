@@ -53,6 +53,7 @@ body {
 header {
     background-color: rgb(23, 139, 62);
     text-align: center;
+    margin: auto;
 }
 
 header > h1 {
