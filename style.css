@@ -62,8 +62,12 @@ header > h1 {
     
 }
 
-header > nav {
-    text-align: left;
+header > p {
+    margin: 0%;
+}
+
+nav {
+    background-color: rgb(23, 139, 62);
 }
 
 nav > a {
@@ -112,7 +116,8 @@ img#segundo {
 }
 
 img#terceiro {
-    padding-left: 90px;
+    padding-left: 20%;
+    width: 50%;
 }
 
 section > article#you {
