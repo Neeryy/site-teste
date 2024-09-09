@@ -58,21 +58,28 @@ header {
 
 header > h1 {
     color: white; 
+    margin-bottom: 20px;
 }
 
 header > p {
     color: white;
+    margin-bottom: 30px;
+    margin: auto;
+    max-width: 600px;
+    padding-right: 10px;
+    padding-left: 10px;
+
 }
 
 nav {
     background-color: rgb(23, 139, 62);
-    padding: 15px;
+    padding: 10px;
 }
 
 nav > a {
     color: white;
     text-decoration: none;
-    border-radius: 15px;
+    border-radius: 5px;
     padding: 10px;
     font-weight: bold;
     transition-duration: 0.5s;
@@ -120,8 +127,9 @@ img#segundo {
 }
 
 img#terceiro {
-    padding-left: 20%;
     max-width: 350px;
+    display: block;
+    margin: auto;
 }
 
 div#you {
